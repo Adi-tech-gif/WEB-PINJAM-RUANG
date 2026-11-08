@@ -418,7 +418,7 @@
         <main class="login">
           <section class="hero">
             <div class="logo" style="margin-bottom:22px"><i>P</i>PinjamRuang</div>
-            <h1>Pinjam ruang kampus tanpa antre di TU.</h1>
+            <h1>Pinjam ruang kampus lebih cepat dengan web.</h1>
             <p class="sub">Pilih ruangan, tentukan sesi, kirim pengajuan. Statusnya bisa kamu pantau langsung.</p>
           </section>
           <form class="panel" onsubmit="login(event)">
